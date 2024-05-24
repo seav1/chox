@@ -1,2 +1,2 @@
-FROM jfu888/dockerjs
+FROM jfu888/jsxx
 USER 10001
