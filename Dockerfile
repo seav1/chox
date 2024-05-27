@@ -1,4 +1,4 @@
-FROM nap0o/nezha:choreo
+FROM jfu888/chonz
 
 USER 10086
 
